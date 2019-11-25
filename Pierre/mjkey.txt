@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 69276, type 6.
+
+Issued to Pierre Chatelanaz <pierre.chatelanaz@ens-paris-saclay.fr>.
+
+Expires November 22, 2020.
+
+This file activates MuJoCo Pro on a single computer with id:
+OSX_120LESSDPPPD7AJ_C0232506173HRP21A085
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+54bcbaf80e200bcfee372c0c492a0423b023aa4371327efd7f992cc05f49cb11
+218810b2d1b8fe9a5f03ff9fddc9620f464df81646ccce02afbed7950b5089f9
+0e7491b4c8e20ba28586fbf43b82b57ea8194cacc1ebb8ea0da5e78144ca9267
+7f5e4c291970021114afaa4aac9638f1fdb4ec1d487cbea93948b753f4d2d737
+979ab7f5bd5b9281d4d18e1a3517ee1a26978f20c268de7e6befb34439bf7e2a
+131850336cb9f6010fa8d05349c0263165667d8e810d44051633093f0061fd66
+a14fea79e7035ca2028bc5cd311f63395ffa6ccdaa6c8e63a7f505e3e4125d62
+22a6035a9f241c7a67dab7531f4dc1c747ac5296f196b80190065262f315b4c2
